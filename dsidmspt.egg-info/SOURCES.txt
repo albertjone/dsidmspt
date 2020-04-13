@@ -1,0 +1,17 @@
+README.md
+setup.cfg
+setup.py
+dsidmspt/__init__.py
+dsidmspt.egg-info/PKG-INFO
+dsidmspt.egg-info/SOURCES.txt
+dsidmspt.egg-info/dependency_links.txt
+dsidmspt.egg-info/top_level.txt
+dsidmspt/connector/__init__.py
+dsidmspt/cruder/__init__.py
+dsidmspt/generator/__init__.py
+dsidmspt/generator/os_event_generator.py
+dsidmspt/policy/__init__.py
+dsidmspt/utils/__init__.py
+dsidmspt/utils/common.py
+dsidmspt/utils/get_schema_from_openstack_doc.py
+dsidmspt/utils/os_event_parser.py
